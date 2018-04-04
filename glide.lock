@@ -1,6 +1,0 @@
-hash: 40413afa6d229ae1efc9946ccb172c3db6d078a1ed7f31b43aa5c3350c55b9b6
-updated: 2018-04-03T19:10:20.098107-07:00
-imports:
-- name: github.com/tebeka/selenium
-  version: 2ccea6e0c0e7425dd3bb6ab291215e2048fd8743
-testImports: []
